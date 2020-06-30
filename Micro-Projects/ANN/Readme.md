@@ -19,4 +19,17 @@ The dataset has following Columns:
 * Exited : Tells us if the Person Exited his account in Bank or not.
 
 
-## Steps to Solve the Problem 
+## Steps Performed to Solve the Problem 
+
+* Importing all the necessary packages and libraries for solving the problem.
+* Import the required Dataset
+* Performed the necessary Data Exploration techniques.
+* Performed some Data Visualization to get most insights of your Data. 
+* Identify the Missing Values in the Dataset
+* Splitting the Dataset into Predictor and Response Variables.
+* Splitting the Dataset into Train and Test Set sets.
+* Performed Feature Scaling on the Train Set.
+* Implemented the Artificial Neural Network Model, trained the model and analysed it's Training and Validation Accuracy.
+* Applied the Test Data on Trained Model and predicted the Response values.
+* Finally, Analysed the Accuracy of the Model by using "Confusion Matrix" and "Accuracy Score".
+
