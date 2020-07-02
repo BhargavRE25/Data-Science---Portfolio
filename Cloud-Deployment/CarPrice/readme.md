@@ -3,7 +3,7 @@
 
 This data is basically extracted from Kaggle and can be used for a lot of purposes but in my project, I have used this data for predicting the Selling price of car by using the Random Forest Regressor Algorithm in Machine Learning.
 
-#### *Note : This project is purely for the purpose of demonstrating my Machine Learning skills to the hiring organization on a beginners level.* 
+#### *Note : Since, I'm a beginner to Machine Learning, Mmy work on this project is purely for the purpose of demonstrating my Machine Learning skills to the hiring organization on a beginners level.* 
 
 ##  About Data
 The columns in the given dataset is as follows:
