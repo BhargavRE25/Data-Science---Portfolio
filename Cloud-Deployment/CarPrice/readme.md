@@ -46,6 +46,7 @@ Please look into the Demo for Deployment.
 ## Steps Involved in Deployment of my Model.
 - Saved our Python Notebook as Pickle File.
 - Taken help of my Colleague to create a Web App using the flask framework.
+- Taken help of my colleague in preparing the HTML file for displaying the Web Page
 - Commited the Code in Github.
 - Linked my Github to Heroku.
 - Deployed my model in Heroku (Manual Deployment of my Master Branch)
