@@ -4,8 +4,6 @@
 
 ### Introduction:
 
-This project has been done in fulfillment to the First Capstone Project requirement of Springboard Data Science Career Track Bootcamp. The work on the project was mentored by [Alex Chao](https://www.linkedin.com/in/alexchao56/). 
-
 The project objective is to enhance the maintenance operations and planning of time-based preventive maintenance by applying data science techniques and machine learning algorithms for predicting more accurate maintenance requirements.
 
 ### Problem:
@@ -13,7 +11,7 @@ The project objective is to enhance the maintenance operations and planning of t
 Failure prediction is a major topic in predictive maintenance in many industries. Airlines are particularly interested in predicting equipment failures in advance so that they can enhance operations and reduce flight delays. 
 
 Observing engine's health and condition through sensors and telemetry data is assumed to facilitate this type of maintenance by predicting Time-To-Failure (TTF) or Remaining Useful Life (RUL) of in-service equipment. Using aircraft engine's sensors measurements, The project attempt to provide the following predictions:  
--  engine's TTF
+-  Engine's Remaining Useful Life (RUL)
 -  which engines will fail in the current period or cycle window
 -  maintenance plan based on prediction of engines failure per period
 
@@ -43,25 +41,16 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 ### Project Files:
 
-- #### [README](https://github.com/Samimust/predictive-maintenance/blob/master/README.md)
+- #### [README](https://github.com/BhargavRE25/DataScience-Portfolio/edit/master/Cap%20Stone%20Project/README.md)
 
-- ####  [Project Proposal](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Proposal.pdf)
+- #### [Data Wrangling](https://github.com/BhargavRE25/DataScience-Portfolio/blob/master/Cap%20Stone%20Project/Data%20Wrangling.ipynb)
 
-- #### [Data Wrangling](https://github.com/Samimust/predictive-maintenance/blob/master/Data%20Wrangling.ipynb)
+- #### [Exploratory Data Analysis](https://github.com/BhargavRE25/DataScience-Portfolio/blob/master/Cap%20Stone%20Project/Exploratory%20Data%20Analysis.ipynb)
 
-- #### [Exploratory Data Analysis](https://github.com/Samimust/predictive-maintenance/blob/master/Exploratory%20Data%20Analysis.ipynb)
+- #### [Regression Modeling](https://github.com/BhargavRE25/DataScience-Portfolio/blob/master/Cap%20Stone%20Project/Model%20Selection%20-%20Regression.ipynb)
 
-- #### [Regression Modeling](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Regression.ipynb)
+- #### [Binary Classification](https://github.com/BhargavRE25/DataScience-Portfolio/blob/master/Cap%20Stone%20Project/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
 
-- #### [Binary Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Binary%20Classifiaction.ipynb)
+- #### [Multiclass Classification](https://github.com/BhargavRE25/DataScience-Portfolio/blob/master/Cap%20Stone%20Project/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
 
-- #### [Multiclass Classification](https://github.com/Samimust/predictive-maintenance/blob/master/Model%20Selection%20-%20Multi-Class%20Classifiaction.ipynb)
-
-- #### [Final Project Report](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Report.pdf)
-
-- #### [Project Summary - Slide Decks](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Summary.pdf)
-
-- #### [Project Data Folder](https://github.com/Samimust/predictive-maintenance/tree/master/data)
-
-- #### [Project Figures Folder](https://github.com/Samimust/predictive-maintenance/tree/master/fig)
-
+- #### [Project Data Folder](https://github.com/BhargavRE25/DataScience-Portfolio/tree/master/Cap%20Stone%20Project/data)
